@@ -8,3 +8,4 @@ What I've learned
   - Utilizing functions
   - Utilizing Math functions and adding a user input
   - Creating dictionaries
+  - Utilize Boolean, AND,OR,NOT,
