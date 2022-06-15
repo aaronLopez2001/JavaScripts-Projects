@@ -7,3 +7,4 @@ What I've learned
   - Expressions
   - Utilizing functions
   - Utilizing Math functions and adding a user input
+  - Creating dictionaries
