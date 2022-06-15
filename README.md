@@ -9,3 +9,4 @@ What I've learned
   - Utilizing Math functions and adding a user input
   - Creating dictionaries
   - Utilize Boolean, AND,OR,NOT,
+  - Utilize ternarty operators
