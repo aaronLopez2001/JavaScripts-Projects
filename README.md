@@ -5,3 +5,5 @@ What I've learned
   - Using different font colors
   - Concatenating String values
   - Expressions
+  - Utilizing functions
+  - Utilizing Math functions and adding a user input
