@@ -10,3 +10,4 @@ What I've learned
   - Creating dictionaries
   - Utilize Boolean, AND,OR,NOT,
   - Utilize ternarty operators
+  - Work with constructors
